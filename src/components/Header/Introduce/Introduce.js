@@ -1,7 +1,7 @@
 import React from 'react';
 import Typewriter from './Typewriter';
 import nxn from '~/assets/image/nxn.jpg';
-import mycv from '~/assets/file/CV_NgoXuanNam_FrontEnd.pdf';
+import mycv from '~/assets/file/MyCV_NgoXuanNam_FrontEnd.pdf';
 export default function Introduce() {
     return (
         <div className="introduce flex justify-center items-center text-[var(--text-white)] p-16">
